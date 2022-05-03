@@ -42,11 +42,11 @@
     "src-ssostrings-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1651523138,
-        "narHash": "sha256-u9T0Vd2WTgRH1bbuBfcvOqo0FUGcqSPaOC29BOOJmeo=",
+        "lastModified": 1651588430,
+        "narHash": "sha256-z7/uu5UvyByH5lcM/Rh0PAmuxX5emKD7jA+0B6FP8zE=",
         "owner": "planetis-m",
         "repo": "ssostrings",
-        "rev": "7952a4c717ec220c7114c9d0f2cb27f8a5a1ee41",
+        "rev": "25a73e3c326db8dfdd3127b89a66cb11e4bd1f1f",
         "type": "github"
       },
       "original": {
