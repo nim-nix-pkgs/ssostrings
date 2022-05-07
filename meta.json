@@ -114,6 +114,34 @@
       "srcDir": "",
       "backend": "c",
       "ref": "refs/tags/v0.4.0"
+    },
+    {
+      "name": "ssostrings",
+      "version": "0.5.0",
+      "author": "Antonis Geralis",
+      "desc": "Small String Optimized string type",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.7.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.7.1"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/v0.5.0"
     }
   ],
   "description": "Small String Optimized (SSO) string implementation",
@@ -127,6 +155,7 @@
     "refs/tags/v0.2.0",
     "refs/tags/v0.3.0",
     "refs/tags/v0.4.0",
+    "refs/tags/v0.5.0",
     ""
   ],
   "heads": [
