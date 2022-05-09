@@ -55,6 +55,22 @@
   inputs."ssostrings-v0_5_0".inputs.nixpkgs.follows = "nixpkgs";
   inputs."ssostrings-v0_5_0".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
+  inputs."ssostrings-v0_6_0".dir   = "v0_6_0";
+  inputs."ssostrings-v0_6_0".owner = "nim-nix-pkgs";
+  inputs."ssostrings-v0_6_0".ref   = "master";
+  inputs."ssostrings-v0_6_0".repo  = "ssostrings";
+  inputs."ssostrings-v0_6_0".type  = "github";
+  inputs."ssostrings-v0_6_0".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."ssostrings-v0_6_0".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
+  inputs."ssostrings-v0_6_1".dir   = "v0_6_1";
+  inputs."ssostrings-v0_6_1".owner = "nim-nix-pkgs";
+  inputs."ssostrings-v0_6_1".ref   = "master";
+  inputs."ssostrings-v0_6_1".repo  = "ssostrings";
+  inputs."ssostrings-v0_6_1".type  = "github";
+  inputs."ssostrings-v0_6_1".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."ssostrings-v0_6_1".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@inputs:
   let 
     lib  = flakeNimbleLib.lib;
