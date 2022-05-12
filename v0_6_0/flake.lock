@@ -36,22 +36,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-ssostrings-master": "src-ssostrings-master"
+        "src-ssostrings-v0_6_0": "src-ssostrings-v0_6_0"
       }
     },
-    "src-ssostrings-master": {
+    "src-ssostrings-v0_6_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1651948227,
-        "narHash": "sha256-SWskM4f2vE/Mx4yYpLVfzY15MI/wsP9cH0HwdSmiCQA=",
+        "lastModified": 1651938340,
+        "narHash": "sha256-Wkncwwlq3aNIUGLJQQR03z21W/jDDqKX2XU9eI4Dey4=",
         "owner": "planetis-m",
         "repo": "ssostrings",
-        "rev": "32c233e3b1e70ea7103601b599139db43a1bf11d",
+        "rev": "9f2f86d2db15503928fc7ed77775dab82d876398",
         "type": "github"
       },
       "original": {
         "owner": "planetis-m",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.6.0",
         "repo": "ssostrings",
         "type": "github"
       }
