@@ -195,11 +195,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653702411,
-        "narHash": "sha256-0CfDh5Hknac2pffd1ovOIa2gN+l4V26aO/sfZEsgrIw=",
+        "lastModified": 1656298114,
+        "narHash": "sha256-n02NDQX6sSBwJr/iKBnsNwZKf9YOFmGnIlkvbcQ2lJE=",
         "owner": "nim-nix-pkgs",
         "repo": "ssostrings",
-        "rev": "12fcc051f44014a5aab4c6216e788c1ec6a37ab8",
+        "rev": "8ec50a0a72dc016005461959c6a7d02620b8391b",
         "type": "github"
       },
       "original": {
@@ -222,11 +222,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1653702411,
-        "narHash": "sha256-0CfDh5Hknac2pffd1ovOIa2gN+l4V26aO/sfZEsgrIw=",
+        "lastModified": 1656298114,
+        "narHash": "sha256-n02NDQX6sSBwJr/iKBnsNwZKf9YOFmGnIlkvbcQ2lJE=",
         "owner": "nim-nix-pkgs",
         "repo": "ssostrings",
-        "rev": "12fcc051f44014a5aab4c6216e788c1ec6a37ab8",
+        "rev": "8ec50a0a72dc016005461959c6a7d02620b8391b",
         "type": "github"
       },
       "original": {
@@ -249,11 +249,11 @@
       },
       "locked": {
         "dir": "v0_2_0",
-        "lastModified": 1653702411,
-        "narHash": "sha256-0CfDh5Hknac2pffd1ovOIa2gN+l4V26aO/sfZEsgrIw=",
+        "lastModified": 1656298114,
+        "narHash": "sha256-n02NDQX6sSBwJr/iKBnsNwZKf9YOFmGnIlkvbcQ2lJE=",
         "owner": "nim-nix-pkgs",
         "repo": "ssostrings",
-        "rev": "12fcc051f44014a5aab4c6216e788c1ec6a37ab8",
+        "rev": "8ec50a0a72dc016005461959c6a7d02620b8391b",
         "type": "github"
       },
       "original": {
@@ -276,11 +276,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1653702411,
-        "narHash": "sha256-0CfDh5Hknac2pffd1ovOIa2gN+l4V26aO/sfZEsgrIw=",
+        "lastModified": 1656298114,
+        "narHash": "sha256-n02NDQX6sSBwJr/iKBnsNwZKf9YOFmGnIlkvbcQ2lJE=",
         "owner": "nim-nix-pkgs",
         "repo": "ssostrings",
-        "rev": "12fcc051f44014a5aab4c6216e788c1ec6a37ab8",
+        "rev": "8ec50a0a72dc016005461959c6a7d02620b8391b",
         "type": "github"
       },
       "original": {
@@ -303,11 +303,11 @@
       },
       "locked": {
         "dir": "v0_4_0",
-        "lastModified": 1653702411,
-        "narHash": "sha256-0CfDh5Hknac2pffd1ovOIa2gN+l4V26aO/sfZEsgrIw=",
+        "lastModified": 1656298114,
+        "narHash": "sha256-n02NDQX6sSBwJr/iKBnsNwZKf9YOFmGnIlkvbcQ2lJE=",
         "owner": "nim-nix-pkgs",
         "repo": "ssostrings",
-        "rev": "12fcc051f44014a5aab4c6216e788c1ec6a37ab8",
+        "rev": "8ec50a0a72dc016005461959c6a7d02620b8391b",
         "type": "github"
       },
       "original": {
@@ -330,11 +330,11 @@
       },
       "locked": {
         "dir": "v0_5_0",
-        "lastModified": 1653702411,
-        "narHash": "sha256-0CfDh5Hknac2pffd1ovOIa2gN+l4V26aO/sfZEsgrIw=",
+        "lastModified": 1656298114,
+        "narHash": "sha256-n02NDQX6sSBwJr/iKBnsNwZKf9YOFmGnIlkvbcQ2lJE=",
         "owner": "nim-nix-pkgs",
         "repo": "ssostrings",
-        "rev": "12fcc051f44014a5aab4c6216e788c1ec6a37ab8",
+        "rev": "8ec50a0a72dc016005461959c6a7d02620b8391b",
         "type": "github"
       },
       "original": {
@@ -357,11 +357,11 @@
       },
       "locked": {
         "dir": "v0_6_0",
-        "lastModified": 1653702411,
-        "narHash": "sha256-0CfDh5Hknac2pffd1ovOIa2gN+l4V26aO/sfZEsgrIw=",
+        "lastModified": 1656298114,
+        "narHash": "sha256-n02NDQX6sSBwJr/iKBnsNwZKf9YOFmGnIlkvbcQ2lJE=",
         "owner": "nim-nix-pkgs",
         "repo": "ssostrings",
-        "rev": "12fcc051f44014a5aab4c6216e788c1ec6a37ab8",
+        "rev": "8ec50a0a72dc016005461959c6a7d02620b8391b",
         "type": "github"
       },
       "original": {
@@ -384,11 +384,11 @@
       },
       "locked": {
         "dir": "v0_6_1",
-        "lastModified": 1653702411,
-        "narHash": "sha256-0CfDh5Hknac2pffd1ovOIa2gN+l4V26aO/sfZEsgrIw=",
+        "lastModified": 1656298114,
+        "narHash": "sha256-n02NDQX6sSBwJr/iKBnsNwZKf9YOFmGnIlkvbcQ2lJE=",
         "owner": "nim-nix-pkgs",
         "repo": "ssostrings",
-        "rev": "12fcc051f44014a5aab4c6216e788c1ec6a37ab8",
+        "rev": "8ec50a0a72dc016005461959c6a7d02620b8391b",
         "type": "github"
       },
       "original": {
